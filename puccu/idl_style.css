@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	padding:0;
+	margin:0;
+	}
+
+a{
+	color:#06F;
+	text-decoration:none;
+	padding:0;
+	margin:0;
+	}
+
+a:hover{
+	text-decoration:none;
+	}
+
+.h4 item-title{
+	font-size:16px;
+	font-family:"Microsoft JhengHei UI Light", "Microsoft JhengHei UI", "微軟正黑體";
+	}
+
+.all_table td{
+	padding:4px 0;
+	letter-spacing:0.12em;
+	vertical-align:middle; 
+	}
+
+.group{
+	background:#d74b0e;
+	font-size:12px;
+	color:#fff;
+	text-align:center;
+	}
+.gap_top{
+	margin:10px 0 0 0;
+	}
+
+.gap_down{
+	padding:0 0 5px 0;
+	}
+
+.school{
+	font-size:16px;
+	font-family:"Microsoft JhengHei UI Light", "Microsoft JhengHei UI", "微軟正黑體";
+	text-align:center;
+	vertical-align:middle; 
+	}
+	
+.center{
+	text-align:center;
+	}
+
+.btn-index{
+	float:right;
+	margin:-20px 0 0 25px;
+	}
